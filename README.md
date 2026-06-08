@@ -219,6 +219,10 @@ How agents get paid and manage funds.
 - **USDT** - Wider exchange support
 - **DAI** - Decentralized option
 
+
+### Micropayments & Trust Scoring
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ---
 
 ## Development Tools
